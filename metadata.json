@@ -1,0 +1,6 @@
+{
+  "name": "R-test 测量系统",
+  "description": "面向多轴数控机床精度检测的工业级专业测量上位机系统（支持1728×926最小视口自由缩放与多风格切换）",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
